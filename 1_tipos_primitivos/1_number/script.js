@@ -11,7 +11,8 @@ console.log(meuNumero);
 console.log(telefone);
 console.log(idade);
 
-
 const soma = meuNumero + idade;
 
 console.log(soma);
+
+console.log('Node funcionou');
